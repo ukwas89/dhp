@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Data files
+*.csv
+*.xlsx
+
+# IDE
+.vscode/
+.idea/
